@@ -1,0 +1,22 @@
+{
+
+    "cityName": "Bahrain",
+    "institution": "The United Nations",
+    "projectBlurb": "Colouring Bahrain is part of Colouring Cities.",
+    
+    "githubURL": "https://github.com/colouring-cities/colouring-britain",
+    "manualURL": "https://github.com/colouring-cities/manual/wiki/M3.-COLOURING-BRITAIN",
+    "privacyStatement": "Colouring Britain stores your data at The Alan Turing Institute in London behind the organisation’s firewall in a secure database using industry standard practices",
+
+    "initialMapPosition": [ 26.0960, 50.3417 ],
+    "initialZoomLevel": 10,
+
+    "postcode": "Postcode",
+    "energy_rating": "Building Research Establishment Environmental Assessment Method (BREEAM) rating [<a href='https://bregroup.com/products/breeam/how-breeam-works'>More info</a>]",
+
+    "bbox": [ 25.0, 22.0, 54.0, 37.0 ],
+
+    "basemapTileUrl": "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+    "baseAttribution": "Building attribute data is © Colouring Cities contributors. Maps contain OS data © Crown copyright: OS Maps baselayers and building outlines. <a href=/ordnance-survey-licence.html>OS licence</a>, search results are powered by Code-Point® Open on <a href=https://github.com/colouring-cities/colouring-britain/issues/www.nationalarchives.gov.uk/doc/open-government-licence/version/3/>OGL license</a>"
+}
+
